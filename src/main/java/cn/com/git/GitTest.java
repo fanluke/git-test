@@ -6,5 +6,6 @@ public class GitTest {
         System.out.println("hello java!");
         System.out.println("hello python!");
         System.out.println("合并冲突 master");
+        System.out.println("代码冲突 hot-fix");
     }
 }
